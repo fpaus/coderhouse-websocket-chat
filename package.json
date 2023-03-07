@@ -9,7 +9,7 @@
     "start:dev": "nodemon src/app"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fabrizio Dante Pauselli",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
