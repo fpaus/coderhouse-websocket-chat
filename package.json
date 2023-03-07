@@ -5,8 +5,8 @@
   "main": "src/app.js",
   "type": "module",
   "scripts": {
-    "start:dev": "nodemon src/app",
-    "start": "node src/app"
+    "start": "node src/app",
+    "start:dev": "nodemon src/app"
   },
   "keywords": [],
   "author": "",
